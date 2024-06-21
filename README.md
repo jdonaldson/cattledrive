@@ -1,2 +1,2 @@
 # cattledrive
-migrate domains between registrars
+Set up domains on cloudflare
